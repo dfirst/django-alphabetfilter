@@ -1,4 +1,4 @@
-from django.db.models.sql import aggregates
+from django.db.models import aggregates
 from django.db.models.aggregates import Aggregate
 
 
